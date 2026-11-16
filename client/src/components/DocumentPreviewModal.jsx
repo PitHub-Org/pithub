@@ -79,7 +79,7 @@ export default function DocumentPreviewModal({ file, onClose }) {
 								textDecoration: 'none'
 							}}
 						>
-							Download ⬇
+							Download
 						</a>
 						<a
 							href={file.url}
@@ -92,7 +92,7 @@ export default function DocumentPreviewModal({ file, onClose }) {
 								textDecoration: 'none'
 							}}
 						>
-							Open in new tab ↗
+							Open in new tab
 						</a>
 						<button
 							onClick={onClose}
@@ -108,7 +108,7 @@ export default function DocumentPreviewModal({ file, onClose }) {
 							}}
 							title="Close Preview"
 						>
-							✕
+						x
 						</button>
 					</div>
 				</div>
@@ -196,7 +196,21 @@ export default function DocumentPreviewModal({ file, onClose }) {
 						/>
 					)}
 				</div>
-
+				
+				{/* Modal Description */}
+				<div
+					style={{
+							padding: '14px 20px',
+							display: 'flex',
+							justifyContent: 'space-between',
+							alignItems: 'center',
+							borderBottom: `1px solid ${theme === 'dark' ? '#333' : '#e5e7eb'}`,
+							backgroundColor: theme === 'dark' ? '#2a2a2a' : '#f9fafb'
+						}}
+				>
+					Description:<br></br>
+					{file.description}
+				</div>
 			</div>
 		</div>
 	);
