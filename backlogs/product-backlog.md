@@ -3,7 +3,7 @@ layout: default
 title: Product Backlog
 permalink: /backlogs/product-backlog/
 ---
-Current Largest ID: RC-246
+Current Largest ID: RC-275
 
 Bear Down Product Owner: Edward Rodriguez
 Bear Down Scrum Master: Sebastian Jaculbe
@@ -43,6 +43,9 @@ Red Dragon Scrum Master: Chloe
 | RC-166 | As a developer, I want to establish a process for responding to user feedback and support requests so that existing users receive timely and consistent assistance. | 8 | 5 | N | -- | -- |
 | RC-228 | As a product team member, I want to develop a plan for all product teams to fully participate in ECaMS Connect, as outlined in Discussion 5, so that teams can coordinate their involvement and meet participation expectations. | 8 | 3 | Y | -- | -- |
 | RC-230 | As a Product Owner, I want to receive coaching on Tuesday, October 20, 2026, at 9:30 AM CT so that I can improve my backlog management, prioritization, and communication with the Software Engineering team. | 8 | 2 | N | -- | -- |
+| RC-151 | As a user, I want to do a usability review of the interface so that confusing workflows and unnecessary steps can be identified and possible added as a story for future development. | 8 | 6 | N | -- | -- |
+| RC-274 | As a user, I want to watch video on the same page so that I don't get redirected to a new page. | 8 | 3 | N | -- | -- |
+| RC-275 | As a developer, I want to move the consolidated Product Backlog to the "Stories" product by the end of the Sprint 7 so  that backlog management is more convenient and more time and effort can go towards developing direct value for users | 8 | 1 | N | -- | -- |
 | RC-078 | As a developer, I want to enforce file size limits so that storage and bandwidth are controlled. | 7 | 2 | Y | -- | -- |
 | RC-089 | As a user, I want to access the platform on different screen sizes so that I can use it on mobile and desktop devices. | 7 | 4 | N | -- | -- |
 | RC-094 | As a user, I want to create notes within a class so that I can keep written study material alongside videos and documents. | 7 | 4 | N | -- | -- |
@@ -51,6 +54,8 @@ Red Dragon Scrum Master: Chloe
 | RC-167 | As a product owner, I want to review the effectiveness of customer outreach activities so that future demonstrations and promotional efforts can focus on the most productive channels. | 7 | 3 | Y | -- | -- |
 | RC-169 | As a first time user, I want to be shown a tutorial or walkthrough of how the app works on my very first login so that I know how to utilize PitHub | 7 | 6 | N | -- | -- |
 | RC-220 | As a user, I want to upload custom thumbnails for documents and edit document details after uploading so that I can make my shared resources easier to identify and keep their information accurate. | 7 | 3 | N | -- | -- |
+| RC-097 | As a developer, I want to create an algorithm that prioritizes recently uploaded and frequently viewed content on the dashboard so that users can quickly access relevant materials. | 7 | 3 | Y | -- | -- |
+| RC-107 | As a first-time user, I want to see an onboarding tutorial so that I can understand how to navigate and use PitHub effectively. | 7 | 4 | N | -- | -- |
 | RC-095 | As a user, I want to edit and delete my notes so that I can keep my study materials accurate and updated. | 6 | 2 | N | -- | -- |
 | RC-098 | As a developer, I want the dashboard recommendation algorithm to display a balanced mix of videos and documents so that users are exposed to multiple forms of course content. | 6 | 4 | Y | -- | -- |
 | RC-099 | As a user, I want to see recommended videos and documents on the homepage so that I can discover useful academic resources. | 6 | 3 | N | -- | -- |
@@ -65,11 +70,7 @@ Red Dragon Scrum Master: Chloe
 | RC-109 | As a user, I want to skip or revisit the onboarding tutorial so that I can review platform guidance when needed. | 5 | 2 | N | -- | -- |
 | RC-178 | As a user, I want to be able to mark uploaded documents or videos as watch later so that I can view them at a later date | 5 | 6 | N | -- | -- |
 | RC-180 | As a user, I want to be able to set an expiration for uploaded documents so that they do not stay on the platform for longer than intended or needed. | 5 | 7 | N | -- | -- |
-| RC-195 | As a new developer (Java), I want to add my information to the Contact Page so that users are able to see PitHub's current developers | 5 | 1 | Y | -- | -- |
 | RC-196 | As a new developer (Chloe), I want to add my information to the Contact Page so that users are able to see PitHub's current developers | 5 | 1 | Y | -- | -- |
-| RC-198 | As a new developer (Josh), I want to add my information to the TEAM.md file so that PitHub documentation is up to date with regards to its development team | 5 | 1 | Y | -- | -- |
-| RC-199 | As a new developer (Java), I want to add my information to the TEAM.md file so that PitHub documentation is up to date with regards to its development team | 5 | 1 | Y | -- | -- |
-| RC-200 | As a new developer (Chloe), I want to add my information to the TEAM.md file so that PitHub documentation is up to date with regards to its development team | 5 | 1 | Y | -- | -- |
 | RC-210 | As a developer (Jacob), I want to continue reaching out and pitching to Lewis University Computer Science professors, either in person or via email, who may be interested in using PitHub as an alternative to Panopto. | 5 | 1 | Y | -- | -- |
 | RC-211 | As a developer (Josh), I want to continue reaching out and pitching to Lewis University Computer Science professors, either in person or via email, who may be interested in using PitHub as an alternative to Panopto. | 5 | 1 | Y | -- | -- |
 | RC-212 | As a developer (Java), I want to continue reaching out and pitching to Lewis University Computer Science professors, either in person or via email, who may be interested in using PitHub as an alternative to Panopto. | 5 | 1 | Y | -- | -- |
@@ -90,6 +91,7 @@ Red Dragon Scrum Master: Chloe
 | RC-245 | As a project maintainer, I want to select an appropriate open-source license for PitHub so that outside developers understand how they are allowed to use, modify, and distribute the project. | 10 | 2 | Y | -- | -- |
 | RC-256 | As a user, I want to view and manage my allocated storage space through my Profile Page or Settings Page so that I can monitor my storage usage and manage my stored files effectively. | 6 | 4 | N | -- | -- |
 | RC-258 | As a developer, I want to intialize the set up for separating the Dev database from the Main database so testing does not affect real user data uploaded on PitHub. | 6 | 5 | N | -- | -- |
+| RC-111 | As a user, I want to pin important videos, notes, or documents within a class so that critical resources remain easy to access. | 6 | 2 | N | -- | -- |
 | RC-259 | As a Product Owner, I want to coordinate Product Backlog refinement and Sprint Planning across product teams so that priorities, requirements, and sprint commitments remain aligned across all teams. | 9 | 4 | Y | -- | -- |
 | RC-260 | As a Product Owner, I want to document a coaching plan for the Software Engineering team's Sprint 7 Planning session so that the team can effectively define sprint goals, estimate work, and establish realistic sprint commitments. | 8 | 3 | Y | -- | -- |
 | RC-261 | As a Product Owner, I want to coordinate all team members' participation in ECaMS Connect so that the team can effectively represent PitHub, showcase the product, and engage with stakeholders and potential users. | 8 | 4 | N | -- | -- |
