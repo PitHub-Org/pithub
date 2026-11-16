@@ -26,6 +26,10 @@ import About from '../pages/info/About';
 import Terms from '../pages/info/Terms';
 import Contact from '../pages/info/Contact'
 
+import SubscriptionPage from '../pages/subscription/SubscriptionPage';
+import PaymentMethodPage from '../pages/subscription/PaymentMethodPage';
+import SubscriptionConfirmationPage from '../pages/subscription/SubscriptionConfirmationPage';
+
 import '../styles/style.css';
 
 /**
@@ -94,6 +98,9 @@ function AppContent() {
 					<Route path="/about" element={<About />} />
 					<Route path="/terms" element={<Terms />} />
 					<Route path="/contact" element={<Contact />} />
+					<Route path="/subscription" element={<ProtectedRoute user={user}><SubscriptionPage /></ProtectedRoute>} />
+					<Route path="/subscription/payment" element={<ProtectedRoute user={user}><PaymentMethodPage /></ProtectedRoute>} />
+					<Route path="/subscription/confirmation" element={<ProtectedRoute user={user}><SubscriptionConfirmationPage /></ProtectedRoute>}/>
 				</Route>
 			</Routes>
 		</Router>

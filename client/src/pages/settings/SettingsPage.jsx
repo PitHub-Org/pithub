@@ -5,6 +5,7 @@ import { db } from '../../lib/firebase';
 import { doc, onSnapshot, setDoc } from 'firebase/firestore';
 import { useEffect } from 'react';
 import { useProfileSettings } from '../../hooks/useProfileSettings';
+import { Link } from 'react-router-dom';
 import '../../styles/Settings.css';
 const CLASS_VIEW_STORAGE_KEY = 'pithub_class_view_mode';
 
@@ -105,7 +106,9 @@ const SettingsPage = () => {
     const renderSection = () => {
         switch (activeSection) {
             case 'account':
-                return <AccountSection user={user} />;
+                return (
+                <AccountSection user={user} />
+            );
 
             case 'profile':
                 return (
@@ -250,6 +253,26 @@ const AccountSection = ({ user }) => {
                     value="Student"
                     disabled
                 />
+            </div>
+
+            <div className="settings-divider" />
+
+            <div className="settings-subscription-row">
+                <div className="settings-subscription-info">
+                    <h3>Subscription</h3>
+                    <p>
+                        View available storage plans and choose a
+                        subscription for your PitHub account.
+                    </p>
+                </div>
+
+                <Link
+                    to="/subscription"
+                    className="settings-subscription-button"
+                >
+                    View Plans
+                    <span aria-hidden="true">→</span>
+                </Link>
             </div>
         </div>
     );
