@@ -188,6 +188,24 @@ const Contact = () => {
                 </div>
             </section>
 
+            {/* Customer Feedback Survey */}
+            <section className="support-card">
+                <div className="support-header">
+                    <h3>PitHub Feedback Survey</h3>
+                </div>
+                <p>
+                    Please feel free to quickly fill out this customer feedback survey.
+                    We would appreciate any and all feedback!
+                </p>
+                <a
+                    href="https://docs.google.com/forms/d/e/1FAIpQLSd839f4hONXdTWVbrjf82X9X6CpYLaa3acQXnbwA67twiaKRQ/viewform?usp=sharing&ouid=100482523299222242930"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                >
+                    Feedback Survey
+                </a>
+            </section>
+
             {/* Development Teams Section */}
             <h2>Our Development Team</h2>
             {teamGroups.map((group, groupIdx) => (
@@ -273,7 +291,7 @@ const Contact = () => {
 
             {/* Add Notification Pop Ups for submition success */}
             <p className="last-updated">
-                Last Updated: September 20, 2026
+                Last Updated: November 15, 2026
             </p>
         </div>
     );
