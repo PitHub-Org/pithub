@@ -25,6 +25,8 @@ Our teams follow Scrum while maintaining a collaborative, self-organizing struct
 | Kaleb Richardson | Developer / QA | Feature development, testing, debugging, and documentation | Bear Down |
 | Jacob Mysliwiec | Scrum Master / Developer | Scrum facilitation, team coordination, development, and implementation | RedDragons |
 | Mirjavkhar Djavkharov | Developer | Frontend/backend development, feature implementation, testing, and documentation | RedDragons |
+| Chloe Washington | Developer| Frontend/backend development, feature implementation, testing, and documentation | RedDragons |
+| Josh Salazar | Developer | Frontend/backend development, feature implementation, testing, and documentation | RedDragons |
 
 > Our Scrum roles and development responsibilities are separate. All members are expected to contribute to development, testing, and review whenever appropriate.
 
@@ -217,3 +219,4 @@ At minimum, the Definition of Done requires:
 - The change has been reviewed and merged into the appropriate branch.
 - At least one GitHub commit exists on the product branch with a commit message following: Story [[STORY-NUMBER]] done
 
+<!-- Testing push/pull after Organization change -->

@@ -5,6 +5,7 @@ import { db } from '../../lib/firebase';
 import { doc, onSnapshot, setDoc } from 'firebase/firestore';
 import { useEffect } from 'react';
 import { useProfileSettings } from '../../hooks/useProfileSettings';
+import { Link } from 'react-router-dom';
 import '../../styles/Settings.css';
 const CLASS_VIEW_STORAGE_KEY = 'pithub_class_view_mode';
 
@@ -18,18 +19,20 @@ const SettingsPage = () => {
         visibility: 'private',
         major: '',
         minor: '',
-        gradSemester: '',
         website: '',
         bio: '',
+        bannerColor: '',
+        bannerImage: '',
         profileConfig: {}
     });
 
     const [profileEditData, setProfileEditData] = useState({
         major: '',
         minor: '',
-        gradSemester: '',
         website: '',
-        bio: ''
+        bio: '',
+        bannerColor: '',
+        bannerImage: ''
     });
 
     const [isSavingProfile, setIsSavingProfile] = useState(false);
@@ -57,9 +60,10 @@ const SettingsPage = () => {
             setProfileEditData({
                 major: data.major || '',
                 minor: data.minor || '',
-                gradSemester: data.gradSemester || '',
                 website: data.website || '',
-                bio: data.bio || ''
+                bio: data.bio || '',
+                bannerColor: data.bannerColor || '',
+                bannerImage: data.bannerImage || ''
             });
         });
 
@@ -102,7 +106,9 @@ const SettingsPage = () => {
     const renderSection = () => {
         switch (activeSection) {
             case 'account':
-                return <AccountSection user={user} />;
+                return (
+                <AccountSection user={user} />
+            );
 
             case 'profile':
                 return (
@@ -248,6 +254,26 @@ const AccountSection = ({ user }) => {
                     disabled
                 />
             </div>
+
+            <div className="settings-divider" />
+
+            <div className="settings-subscription-row">
+                <div className="settings-subscription-info">
+                    <h3>Subscription</h3>
+                    <p>
+                        View available storage plans and choose a
+                        subscription for your PitHub account.
+                    </p>
+                </div>
+
+                <Link
+                    to="/subscription"
+                    className="settings-subscription-button"
+                >
+                    View Plans
+                    <span aria-hidden="true">→</span>
+                </Link>
+            </div>
         </div>
     );
 };
@@ -353,22 +379,6 @@ const ProfileSection = ({
                     disabled={isFieldLoading}
                 />
 
-                <ProfileInput
-                    label="Expected Graduation"
-                    value={profileEditData.gradSemester}
-                    placeholder="Spring 2027"
-                    onChange={(value) =>
-                        setProfileEditData({
-                            ...profileEditData,
-                            gradSemester: value
-                        })
-                    }
-                    visible={fieldVisibility('showGraduation')}
-                    onToggle={() =>
-                        handleToggleFieldVisibility('showGraduation')
-                    }
-                    disabled={isFieldLoading}
-                />
 
                 <ProfileInput
                     label="Website"

@@ -3,49 +3,39 @@ layout: default
 title: Sprint Backlog
 permalink: /backlogs/product-backlog/
 ---
-Sprint 5 Product Owner: Josh
-Sprint 5 Scrum Master: Jacob
-
 Sprint 6 Product Owner: Jacob
-Sprint 6 Scrum Master: Josh
+Sprint 6 Scrum Master: Chloe
 
-Sprint Planning completed 10/22
-Attended by Jacob and Josh
+Sprint 7 Product Owner: Chloe
+Sprint 7 Scrum Master: Java
+
+Sprint Planning completed 11/5
+Attended by Jacob, Java, Josh, Chloe
 
 # 📋 Sprint Backlog – *Pithub*
 
 | **ID** | **User Story / Task** | **Priority (1-10)** | **Estimate (SP)** | **Spike (Y/N)** | **Status** | **Assigned** |
 |--------|------------------------|--------------|--------------|------------|--------------|--------------|
-| RC-193 | As a user, I want to view the current developers (Jacob) on the Contact Page so that I am able to see and contact PitHub's current developers | 5 | 1 | N| In-Progress | Jacob |
-| RC-194 | As a user, I want to view the current developers (Josh) on the Contact Page so that I am able to see and contact PitHub's current developers | 5 | 1 | N| In-Progress | Josh |
-| RC-195 | As a user, I want to view the current developers (Java) on the Contact Page so that I am able to see and contact PitHub's current developers | 5 | 1 | N| In-Progress | Java |
-| RC-196 | As a user, I want to view the current developers (Chloe) on the Contact Page so that I am able to see and contact PitHub's current developers | 5 | 1 | N| In-Progress | Chloe |
-| RC-197 | As a new developer (Jacob), I want to add my information to the TEAM.md file so that PitHub documentation is up to date with regards to its development team | 5 | 1 | Y| In-Progress | Jacob |
-| RC-198 | As a new developer (Josh), I want to add my information to the TEAM.md file so that PitHub documentation is up to date with regards to its development team | 5 | 1 | Y| In-Progress | Josh |
-| RC-199 | As a new developer (Java), I want to add my information to the TEAM.md file so that PitHub documentation is up to date with regards to its development team | 5 | 1 | Y| In-Progress | Java |
-| RC-200 | As a new developer (Chloe), I want to add my information to the TEAM.md file so that PitHub documentation is up to date with regards to its development team | 5 | 1 | Y| In-Progress | Chloe |
-| RC-201 | As a new developer (Jacob), I want to watch and follow along the onboarding videos uploaded to the PitHub Team Playlist so that I am familiar with the set up and development workflow for PitHub | 9 | 2 | Y| In-Progress | Jacob |
-| RC-202 | As a new developer (Josh), I want to watch and follow along the onboarding videos uploaded to the PitHub Team Playlist so that I am familiar with the set up and development workflow for PitHub | 9 | 2 | Y| In-Progress | Josh |
-| RC-203 | As a new developer (Java), I want to watch and follow along the onboarding videos uploaded to the PitHub Team Playlist so that I am familiar with the set up and development workflow for PitHub | 9 | 2 | Y| In-Progress | Java |
-| RC-204 | As a new developer (Chloe), I want to watch and follow along the onboarding videos uploaded to the PitHub Team Playlist so that I am familiar with the set up and development workflow for PitHub | 9 | 2 | Y| In-Progress | Chloe |
-| RC-205 | As a new developer (Jacob), I want to answer the Onboarding Feedback Google Form so that the Bear Down scrum team has valuable information that can be used to improve PitHub or the onboarding process | 5 | 1 | Y| In-Progress | Jacob |
-| RC-206 | As a new developer (Josh), I want to answer the Onboarding Feedback Google Form so that the Bear Down scrum team has valuable information that can be used to improve PitHub or the onboarding process | 5 | 1 | Y| In-Progress | Josh |
-| RC-207 | As a new developer (Java), I want to answer the Onboarding Feedback Google Form so that the Bear Down scrum team has valuable information that can be used to improve PitHub or the onboarding process | 5 | 1 | Y| In-Progress | Java |
-| RC-208 | As a new developer (Chloe), I want to answer the Onboarding Feedback Google Form so that the Bear Down scrum team has valuable information that can be used to improve PitHub or the onboarding process | 5 | 1 | Y| In-Progress | Chloe |
-| RC-210 | As a Computer Science professor, I want a PitHub developer (Jacob) to reach out and pitch Pithub as an alternative to Panopto, so that I can explore other options for managing my files. | 5 | 1 | N | In-Progress | Jacob |
-| RC-211 | As a Computer Science professor, I want a PitHub developer (Josh) to reach out and pitch Pithub as an alternative to Panopto, so that I can explore other options for managing my files. | 5 | 1 | N | In-Progress | Josh |
-| RC-212 | As a Computer Science professor, I want a PitHub developer (Java) to reach out and pitch Pithub as an alternative to Panopto, so that I can explore other options for managing my files. | 5 | 1 | N | In-Progress | Java |
-| RC-213 | As a Computer Science professor, I want a PitHub developer (Chloe) to reach out and pitch Pithub as an alternative to Panopto, so that I can explore other options for managing my files. | 5 | 1 | N | In-Progress | Chloe |
-| RC-224 | As a new developer (Jacob), I want to set up the local development environment so that I can run PitHub locally on my own machine so that I am able to contribute to the development of PitHub. | 9 | 2 | Y | In-Progress | Jacob |
-| RC-225 | As a new developer (Josh), I want to set up the local development environment so that I can run PitHub locally on my own machine so that I am able to contribute to the development of PitHub. | 9 | 2 | Y | In-Progress | Josh |
-| RC-226 | As a new developer (Java), I want to set up the local development environment so that I can run PitHub locally on my own machine so that I am able to contribute to the development of PitHub. | 9 | 2 | Y | In-Progress | Java |
-| RC-227 | As a new developer (Chloe), I want to set up the local development environment so that I can run PitHub locally on my own machine so that I am able to contribute to the development of PitHub. | 9 | 2 | Y | In-Progress | Chloe |
-| RC-233 | As a developer (Jacob), I want to add two stories to the product backlog so that I can ensure I have utilized the product and can identify areas for improvement. | 4 | 2 | Y | In-Progress | Jacob |
-| RC-234 | As a developer (Josh), I want to add two stories to the product backlog so that I can ensure I have utilized the product and can identify areas for improvement. | 4 | 2 | Y | In-Progress | Josh |
-| RC-235 | As a developer (Java), I want to add two stories to the product backlog so that I can ensure I have utilized the product and can identify areas for improvement. | 4 | 2 | Y | In-Progress | Java |
-| RC-236 | As a developer (Chloe), I want to add two stories to the product backlog so that I can ensure I have utilized the product and can identify areas for improvement. | 4 | 2 | Y | In-Progress | Chloe |
+| RC-240 | As a new developer, I want to create a list of assets that needs to be transfered to the new team so that we can begin the offboarding process for the old team. | 8 | 1 | Y | In-Progress | Jacob |
+| RC-241 | As a new developer, I want to coordinate the transfer of assets from the old team to the new team so that we can continue support for the product into the future. | 8 | 3 | Y | In-Progress | Jacob |
+| RC-111 | As a user, I want to pin important videos, notes, or documents within a class so that critical resources remain easy to access. | 6 | 2 | N | In-Progress | Jacob |
+| RC-221 | As a user, I want to add and edit descriptions for uploaded files so that other users can understand the contents and purpose of a document before opening or downloading it. | 7 | 2 | N | In-Progress | Jacob |
+| RC-264 | As a product owner, I want to coordinate the Product Backlog across teams so that there is no conflict with development and the user experience stays consistent. | 8 | 1 | N | In-Progress | Jacob |
+| RC-265 | As a product owner I want to include Percent Spikes in our metrics for individual team members and the overall team so that we can monitor spike usage  and encourage delivering more direct value to users.| 8 | 1 | N | In-Progress | Jacob |
+| RC-151 | As a user, I want to do a usability review of the interface so that confusing workflows and unnecessary steps can be identified and possible added as a story for future development. | 8 | 6 | N | In-Progress | Java |
+| RC-263 | As a user, I want to watch video on the same page so that I don't get redirected to a new page. | 8 | 3 | N | In-Progress | Java |
+| RC-229 | As a Scrum Master, I want to coordinate Sprint 5 backlog grooming and sprint planning across the Software Engineering and Capstone teams so that both teams have prioritized, refined, and actionable sprint backlogs.| 9 | 2 | N | In-Progress | Chloe |
+| RC-097 | As a developer, I want to create an algorithm that prioritizes recently uploaded and frequently viewed content on the dashboard so that users can quickly access relevant materials. | 7 | 3 | Y | In-Progress | Chloe |
+| RC-107 | As a first-time user, I want to see an onboarding tutorial so that I can understand how to navigate and use PitHub effectively. | 7 | 4 | N | In-Progress | Chloe |
+| RC-196 | As a new developer (Chloe), I want to add my information to the Contact Page so that users are able to see PitHub's current developers | 5 | 1 | Y | In-Progress | Chloe |
+| RC-200 | As a new developer (Chloe), I want to add my information to the TEAM.md file so that PitHub documentation is up to date with regards to its development team | 5 | 1 | Y | In-Progress | Chloe |
+| RC-266 | As a developer, I want to move the consolidated Product Backlog to the "Stories" product by the end of the Sprint 7 so  that backlog management is more convenient and more time and effort can go towards developing direct value for users | 8 | 1 | N | In-Progress | Chloe |
+| RC-216 | As a user, I want to be able to share a direct link to a video or document by clicking a share button so that I can easily send resources to other people. | 4 | 4 | N | In-Progress | Josh |
+| RC-159 | As a developer, I want to create a customer feedback survey for existing users so that satisfaction with PitHub's current functionality can be measured. | 8 | 2 | Y | In-Progress | Josh |
+| RC-160 | As a product owner, I want to identify the most common reasons users stop using PitHub so that the team can prioritize improvements that address user retention concerns. | 8 | 3 | Y | In-Progress | Josh | 
+| RC-198 | As a new developer (Josh), I want to add my information to the TEAM.md file so that PitHub documentation is up to date with regards to its development team | 5 | 1 | Y | In-Progress | Josh |
 
 Individiual Capacity: 8 Story Points
 Team Capacity: 32 Story Points
 
-Story Points: 40 points
+Story Points:  40 points
