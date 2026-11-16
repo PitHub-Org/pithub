@@ -5,12 +5,15 @@ import { useTheme } from '../context/ThemeContext';
 import ReportButton from './ReportButton';
 import DocumentPreviewModal from './DocumentPreviewModal';
 import FavoriteButton from './FavoriteButton';
+import RenameDocument from './RenameDocument';
+import { useAuth } from '../context/AuthContext';
 import { doc, updateDoc, increment } from 'firebase/firestore';
 import { db } from "../lib/firebase";
 
 export default function VideoList({ userOnly = false, showClassLink = true, showVisibilityBadge = false, showSort = false } = {}) {
 	const { videos, loading, error, nextPage, prevPage, page, hasNext, sortBy, changeSort } = useVideos({ userOnly });
 	const { theme } = useTheme();
+	const { user } = useAuth();
 	const [hoverPrev, setHoverPrev] = useState(false);
 	const [hoverNext, setHoverNext] = useState(false);
 	const [playingId, setPlayingId] = useState(null);
@@ -176,6 +179,9 @@ export default function VideoList({ userOnly = false, showClassLink = true, show
 							</div>
 						</div>
 						<div style={{ display: 'flex', alignItems: 'center', gap: '10px' }}>
+							{user?.uid && user.uid === video.ownerId && (
+								<RenameDocument file={video} />
+							)}
 							<FavoriteButton entityType="upload" entityId={video.id} />
 							<ReportButton file={video} />
 						</div>
