@@ -53,7 +53,6 @@ Red Dragon Scrum Master: Java
 | RC-230 | As a Product Owner, I want to receive coaching on Tuesday, October 20, 2026, at 9:30 AM CT so that I can improve my backlog management, prioritization, and communication with the Software Engineering team. | 8 | 2 | N | -- | -- |
 | RC-151 | As a user, I want to do a usability review of the interface so that confusing workflows and unnecessary steps can be identified and possible added as a story for future development. | 8 | 6 | N | -- | -- |
 | RC-274 | As a user, I want to watch video on the same page so that I don't get redirected to a new page. | 8 | 3 | N | -- | -- |
-| RC-275 | As a developer, I want to move the consolidated Product Backlog to the "Stories" product by the end of the Sprint 7 so  that backlog management is more convenient and more time and effort can go towards developing direct value for users | 8 | 1 | N | -- | -- |
 | RC-078 | As a developer, I want to enforce file size limits so that storage and bandwidth are controlled. | 7 | 2 | Y | -- | -- |
 | RC-089 | As a user, I want to access the platform on different screen sizes so that I can use it on mobile and desktop devices. | 7 | 4 | N | -- | -- |
 | RC-094 | As a user, I want to create notes within a class so that I can keep written study material alongside videos and documents. | 7 | 4 | N | -- | -- |
@@ -141,7 +140,7 @@ Red Dragon Scrum Master: Java
 | RC-297 | As a user, I want to access a centralized notification center so that I can view and manage all notifications received through PitHub in one location. | 8 | 3 | N | -- | -- |
 | RC-298 | As a user, I want to mark notifications as read or unread so that I can keep track of important updates and distinguish between notifications I have already reviewed and those requiring my attention. | 7 | 2 | N | -- | -- |
 | RC-299 | As a developer, I want to implement a scheduled process for identifying orphaned Firebase Storage files so that files no longer referenced by the database can be identified and removed safely to reduce unnecessary storage costs. | 9 | 4 | Y | -- | -- |
-| RC-300 | As a developer, I want to move the product backlog, and sprint backlogs, to the Stories application so that backlogs can be more easily managed between teams. | 5 | 2 | Y | -- | -- |
+| RC-300 | As a developer, I want to move the product backlog, and sprint backlogs, to the Stories application so that backlogs can be more easily managed between teams. | 5 | 3 | Y | -- | -- |
 | RC-301 | As a user, I want my files from Panopto to be easily transferable so that I don't have to deal with the overhead of manual file transfer. | 8 | 4 | N | -- | -- |
 | RC-302 | As a developer, I want to investigate whether we can access Panopto API's for automatic file transfer between Panopto and PitHub. | 8 | 2 | Y | -- | -- |
 | RC-303 | As a developer, I want to normalize story points by user value so that user's requests and needs are being met. | 9 | 3 | Y | -- | -- |
