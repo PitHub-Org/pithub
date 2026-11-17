@@ -16,7 +16,7 @@ Attended by
 
 | **ID** | **User Story / Task** | **Priority (1-10)** | **Estimate (SP)** | **Spike (Y/N)** | **Status** | **Assigned** |
 |--------|------------------------|--------------|--------------|------------|--------------|--------------|
-
+| RC-282 | As a user, I want to search for videos and documents using their descriptions so that I can locate academic resources based on the information associated with uploaded content. | 8 | 4 | N | In-Progress | Jacob |
 
 Individiual Capacity: 14 Story Points
 Team Capacity: 56 Story Points
