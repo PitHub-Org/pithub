@@ -140,13 +140,23 @@ Our vision for PitHub is that it will grow past the Software Engineering/Capston
 
 Specifics on how current student vs alumni code contributions will still be dscussed but PitHub is to be a proper product that is managed by both sets of developers. Since if PitHub scales to the point where all of Lewis University is using it, then it might need the full PitHub development team, both past and present. 
 
+Further talks with Dr. Pogue and Comp Sci Department Head are still needed.
+
+### Important Upcoming Stages/Features For PitHub
+**GitHub Pages for PitHub:**
+-  As PitHub becomes a more complete and polished app, we want to create a separate public website using GitHub Pages. This website would be completely separate from the actual PitHub web app and would basically serve as a place where potential users (i.e. Lewis professors) can learn about PitHub before deciding if they want to use it.
+- The website would basically include a general overview of what PitHub is, what it does, and the different features that we have implemented. We could also include a demo video or the PitHub overview video (or an updated version of it) that shows how PitHub works so our potential users can get a better idea of what PitHub looks like and how it works before signing up to use it.
+- Another thing we would have to include in this webstie is an interest form where faculty members can submit their information if they are interested in using PitHub (i.e. name, department info, and lewisu email). So instead of allowing anyone to just log in using their @lewisu.edu email accounts and access PitHub, we want faculty members to fill out this form first if they are interested in using PitHub. From there, we can review their submissions, register their accounts, and give them access to the actual PitHub web application. This also just allows us to keep track of who is interested in using PitHub and let us have better control over who is allowed to access the platform, meaning just because you have a lewisu.edu doesn't mean you're registered right away. Plus we're gonna make the interest form very simple, literally just the three info we need and that's prety much all they have to fill out (so they won't feel that the sign up process is too much). 
+- Once we recieve their info from the interest form and actually verify they are faculty at Lewis, then we just allow their email address to log in to PitHub.
+- Overall, we want this website to basically be the main place where people can learn about PitHub and see what we have to offer. This would also be useful when we are reaching out to professors, giving demos, or trying to get more faculty members interested in using PitHub (especially for the ECaMS event next month). Instead of having to explain everything ourselves, we can just direct them to the website where they can learn about the product and submit a request to use it. This would also help us when we eventually pitch PitHub to other departments at Lewis University as a possible alternative to Panopto.
+
 
 ## 5. Important Things to Discuss
 1. Open-Source Transition
 2. Firebase payment responsibilities
 3. Long-term maintenance
 4. Separate Test Environment using separate storage
-
+5. GitHub Pages for PitHub
 
 > ## About This Document
 > We will try to update this document whenever significant
