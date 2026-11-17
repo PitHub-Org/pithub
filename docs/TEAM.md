@@ -217,6 +217,7 @@ At minimum, the Definition of Done requires:
 - Necessary documentation has been updated.
 - The completed work has been integrated into the product.
 - The change has been reviewed and merged into the appropriate branch.
+- The change must be demoable in production.
 - At least one GitHub commit exists on the product branch with a commit message following: Story [[STORY-NUMBER]] done
 
 <!-- Testing push/pull after Organization change -->

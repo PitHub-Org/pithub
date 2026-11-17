@@ -13,9 +13,9 @@ Bear Down Scrum Master: Sebastian Jaculbe
 
 ---
 
-Red Dragon Product Owner: Jacob
+Red Dragon Product Owner: Chloe
 
-Red Dragon Scrum Master: Chloe
+Red Dragon Scrum Master: Java
 
 ---
 
@@ -141,3 +141,7 @@ Red Dragon Scrum Master: Chloe
 | RC-297 | As a user, I want to access a centralized notification center so that I can view and manage all notifications received through PitHub in one location. | 8 | 3 | N | -- | -- |
 | RC-298 | As a user, I want to mark notifications as read or unread so that I can keep track of important updates and distinguish between notifications I have already reviewed and those requiring my attention. | 7 | 2 | N | -- | -- |
 | RC-299 | As a developer, I want to implement a scheduled process for identifying orphaned Firebase Storage files so that files no longer referenced by the database can be identified and removed safely to reduce unnecessary storage costs. | 9 | 4 | Y | -- | -- |
+| RC-300 | As a developer, I want to move the product backlog, and sprint backlogs, to the Stories application so that backlogs can be more easily managed between teams. | 5 | 2 | Y | -- | -- |
+| RC-301 | As a user, I want my files from Panopto to be easily transferable so that I don't have to deal with the overhead of manual file transfer. | 8 | 4 | N | -- | -- |
+| RC-302 | As a developer, I want to investigate whether we can access Panopto API's for automatic file transfer between Panopto and PitHub. | 8 | 2 | Y | -- | -- |
+| RC-303 | As a developer, I want to normalize story points by user value so that user's requests and needs are being met. | 9 | 3 | Y | -- | -- |
