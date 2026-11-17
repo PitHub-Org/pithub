@@ -3,13 +3,21 @@ layout: default
 title: Product Backlog
 permalink: /backlogs/product-backlog/
 ---
-Current Largest ID: RC-275
+Current Largest ID: RC-299
+
+---
 
 Bear Down Product Owner: Edward Rodriguez
+
 Bear Down Scrum Master: Sebastian Jaculbe
 
+---
+
 Red Dragon Product Owner: Jacob
+
 Red Dragon Scrum Master: Chloe
+
+---
 
 # 📋 Product Backlog – *Pithub*
 
@@ -94,7 +102,7 @@ Red Dragon Scrum Master: Chloe
 | RC-111 | As a user, I want to pin important videos, notes, or documents within a class so that critical resources remain easy to access. | 6 | 2 | N | -- | -- |
 | RC-259 | As a Product Owner, I want to coordinate Product Backlog refinement and Sprint Planning across product teams so that priorities, requirements, and sprint commitments remain aligned across all teams. | 9 | 4 | Y | -- | -- |
 | RC-260 | As a Product Owner, I want to document a coaching plan for the Software Engineering team's Sprint 7 Planning session so that the team can effectively define sprint goals, estimate work, and establish realistic sprint commitments. | 8 | 3 | Y | -- | -- |
-| RC-261 | As a Product Owner, I want to coordinate all team members' participation in ECaMS Connect so that the team can effectively represent PitHub, showcase the product, and engage with stakeholders and potential users. | 8 | 4 | N | -- | -- |
+| RC-261 | As a Product Owner, I want to coordinate all team members' participation in ECaMS Connect so that the team can effectively represent PitHub, showcase the product, and engage with potential users. | 8 | 4 | N | -- | -- |
 | RC-262 | As a Product Owner, I want to review and validate the list of product assets to be transitioned from the Capstone team during Sprint 7 so that all necessary assets are accounted for and the product transition is completed smoothly. | 9 | 3 | Y | -- | -- |
 | RC-263 | As a user, I want to delete videos uploaded outside of a class so that I can remove unwanted or incorrectly uploaded content from my account. | 7 | 3 | N | -- | -- |
 | RC-264 | As a user, I want custom class background images to appear within the class page and not just on the class card so that my class maintains a consistent visual appearance throughout the platform. | 6 | 3 | N | -- | -- |
@@ -107,3 +115,29 @@ Red Dragon Scrum Master: Chloe
 | RC-271 | As a developer, I want to implement a separate testing website connected to a secondary Firebase project containing backed-up user data so that new features and changes can be tested without affecting the production environment or real user data. | 10 | 8 | Y | -- | -- |
 | RC-272 | As a developer, I want to implement automated backups for Firebase Storage so that user-uploaded content and important platform resources can be recovered in the event of accidental deletion or unexpected failures. | 10 | 5 | Y | -- | -- |
 | RC-273 | As a PitHub organization member, I want to create Red Dragon GitHub teams within the PitHub GitHub organization so that team membership, repository access, and development responsibilities can be managed independently. | 8 | 1 | Y | -- | -- |
+| RC-274 | As a student, I want to access a student-specific interface when PitHub transitions to a faculty-focused platform so that I can view and interact with classes and playlists that faculty members have invited me to. | 10 | 6 | N | -- | -- |
+| RC-275 | As a faculty member, I want to submit an interest form through the PitHub GitHub Pages website so that I can request access to PitHub as a potential faculty user. | 9 | 4 | N | -- | -- |
+| RC-276 | As an administrator, I want to view all pending registration requests so that I can review and manage faculty members requesting access to PitHub. | 9 | 3 | N | -- | -- |
+| RC-277 | As a user, I want to receive email notifications for important account and platform events, including successful registration, account suspensions, content reports, and administrator direct message replies, so that I remain informed about important activity even when I am not using PitHub. | 8 | 5 | N | -- | -- |
+| RC-278 | As an administrator, I want to export the list of approved PitHub users so that faculty access records can be maintained and reviewed outside the platform. | 6 | 2 | N | -- | -- |
+| RC-279 | As a developer, I want to implement a registration verification system that checks submitted user credentials against an approved registration database so that only users who have submitted an interest form and received approval can access PitHub. | 10 | 5 | Y | -- | -- |
+| RC-280 | As a developer, I want to restrict @lewisu.edu accounts from accessing PitHub unless they have completed the registration and approval process so that Lewis University users cannot bypass the faculty registration requirements. | 10 | 3 | N | -- | -- |
+| RC-281 | As the original development team, I want to develop a transition plan for making PitHub an open-source project so that past, present, and future developers can continue contributing to and maintaining the platform. | 10 | 5 | Y | -- | -- |
+| RC-282 | As a user, I want to search for videos and documents using their descriptions so that I can locate academic resources based on the information associated with uploaded content. | 8 | 4 | N | -- | -- |
+| RC-283 | As a user, I want to rearrange the order of documents within classes and playlists so that I can organize academic resources in a preferred sequence. | 7 | 3 | N | -- | -- |
+| RC-284 | As a user, I want to pin important documents within classes and playlists so that frequently used academic resources are easier to locate. | 7 | 3 | N | -- | -- |
+| RC-285 | As a user, I want to pin important classes and playlists within their respective pages so that I can quickly access the academic resources I use most frequently. | 6 | 3 | N | -- | -- |
+| RC-286 | As a user, I want to search for videos and documents within a specific class or playlist so that I can quickly locate relevant resources without browsing all available content. | 8 | 4 | N | -- | -- |
+| RC-287 | As a user, I want to add and edit descriptions and other relevant information for playlists so that I can provide context about the academic resources they contain. | 6 | 2 | N | -- | -- |
+| RC-288 | As a user, I want to move uploaded documents between different classes without reuploading the files so that I can reorganize existing academic resources without creating unnecessary duplicate files. | 8 | 4 | N | -- | -- |
+| RC-289 | As a user, I want to filter classes using available class information so that I can narrow down displayed class cards and locate specific classes more efficiently. | 7 | 3 | N | -- | -- |
+| RC-290 | As an administrator, I want private videos to remain inaccessible through administrative content listings unless I have the appropriate permissions so that users' content privacy settings are properly respected. | 9 | 3 | N | -- | -- |
+| RC-291 | As an administrator, I want to view classes and user profiles directly from the administration page so that I can investigate user accounts and class-related issues without navigating through the regular user interface. | 8 | 4 | N | -- | -- |
+| RC-292 | As an administrator, I want suspended users to be prevented from creating new classes and uploading videos or documents to existing classes so that suspended accounts cannot continue performing restricted activities. | 9 | 4 | N | -- | -- |
+| RC-293 | As a developer, I want to implement a centralized notification system so that important platform events and user activities can generate notifications for the appropriate users. | 9 | 5 | Y | -- | -- |
+| RC-294 | As a user, I want to archive classes and playlists so that I can remove inactive academic resources from my primary views without permanently deleting their content. | 7 | 4 | N | -- | -- |
+| RC-295 | As a user, I want to access a dedicated archives section so that I can view and manage classes and playlists that I have previously archived. | 7 | 3 | N | -- | -- |
+| RC-296 | As a user, I want to share videos directly from the VideoList by copying their URLs so that I can easily distribute links to academic resources outside of PitHub. | 7 | 2 | N | -- | -- |
+| RC-297 | As a user, I want to access a centralized notification center so that I can view and manage all notifications received through PitHub in one location. | 8 | 3 | N | -- | -- |
+| RC-298 | As a user, I want to mark notifications as read or unread so that I can keep track of important updates and distinguish between notifications I have already reviewed and those requiring my attention. | 7 | 2 | N | -- | -- |
+| RC-299 | As a developer, I want to implement a scheduled process for identifying orphaned Firebase Storage files so that files no longer referenced by the database can be identified and removed safely to reduce unnecessary storage costs. | 9 | 4 | Y | -- | -- |
