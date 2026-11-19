@@ -22,7 +22,6 @@ Attended by
 | RC-292 | As an administrator, I want suspended users to be prevented from creating new classes and uploading videos or documents to existing classes so that suspended accounts cannot continue performing restricted activities. | 9 | 4 | N | In-Progress | Jacob |
 | RC-135 | As a developer, I want to create automated backups for user-uploaded content so that important academic resources can be recovered after unexpected failures. | 9 | 6 | Y | In-Progress | Chloe |
 | RC-058 | As a developer, I want to implement role-based permissions (future) so that professors and students may have different capabilities. | 8 | 5 | Y | In-Progress | Chloe |
-| RC-237 | As a developer, I want any files, file names, or code which mention team members to include that member's team name so that future development teams can add new files without the possibility for same name conflicts. | 5 | 2 | Y | In-Progress | Chloe |
 | RC-094 | As a user, I want to create notes within a class so that I can keep written study material alongside videos and documents. | 7 | 4 | N | In-Progress | Chloe |
 | RC-301 | As a developer, I want to normalize priority by user value so that user's requests and needs are being met. | 9 | 2 | Y | In-Progress | Josh |
 | RC-300 | As a developer, I want to move the product backlog, and sprint backlogs, to the Stories application so that backlogs can be more easily managed between teams. | 5 | 2 | Y | In-Progress | Josh |
@@ -33,6 +32,7 @@ Attended by
 | RC-219 | As a user, I want to upload a custom thumbnail for my classes so that I can visually distinguish them from other classes. | 6 | 4 | N | In-Progress | Java |
 | RC-273 | As a PitHub organization member, I want to create Red Dragon GitHub teams within the PitHub GitHub organization so that team membership, repository access, and development responsibilities can be managed independently. | 8 | 1 | Y | In-Progress | Java |
 | RC-238 | As a user, I want to only see the current developers of PitHub on the contacts page rather than legacy developers who are listed under a drop down box so that I do not contact a legacy developer by accident. | 5 | 3 | N | In-Progress | Java |
+| RC-237 | As a developer, I want any files, file names, or code which mention team members to include that member's team name so that future development teams can add new files without the possibility for same name conflicts. | 5 | 2 | Y | In-Progress | Java |
 
 Individiual Capacity: 14 Story Points
 Team Capacity: 56 Story Points
