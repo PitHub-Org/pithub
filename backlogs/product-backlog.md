@@ -133,7 +133,5 @@ Red Dragon Scrum Master: Java
 | RC-297 | As a user, I want to access a centralized notification center so that I can view and manage all notifications received through PitHub in one location. | 8 | 3 | N | -- | -- |
 | RC-298 | As a user, I want to mark notifications as read or unread so that I can keep track of important updates and distinguish between notifications I have already reviewed and those requiring my attention. | 7 | 2 | N | -- | -- |
 | RC-299 | As a developer, I want to implement a scheduled process for identifying orphaned Firebase Storage files so that files no longer referenced by the database can be identified and removed safely to reduce unnecessary storage costs. | 9 | 4 | Y | -- | -- |
-| RC-301 | As a developer, I want to normalize story points by user value so that user's requests and needs are being met. | 9 | 3 | Y | -- | -- |
-| RC-302 | As a SE developer, I want to aid the capstone team with the ECaMS Connect presentation so that both teams participate in the activity. | 9 | 4 | Y | -- | -- |
 | RC-303 | As a developer, I want to ensure all documentation is accurate, up to date, and relevent so that other developers are better able to understand the project architecture. | 5 | 3 | Y | -- | -- |
 | RC-304 | As a devloper, I want to add comment documentation to source code files so that developers are better able to understand a given source file. | 4 | 10 | Y | -- | -- |

@@ -24,6 +24,8 @@ Attended by
 | RC-300 | As a developer, I want to move the product backlog, and sprint backlogs, to the Stories application so that backlogs can be more easily managed between teams. | 5 | 2 | Y | -- | -- |
 | RC-238 | As a user, I want to only see the current developers of PitHub on the contacts page rather than legacy developers who are listed under a drop down box so that I do not contact a legacy developer by accident. | 5 | 3 | N | -- | -- |
 | RC-237 | As a developer, I want any files, file names, or code which mention team members to include that member's team name so that future development teams can add new files without the possibility for same name conflicts. | 5 | 2 | Y | -- | -- |
+| RC-301 | As a developer, I want to normalize story points by user value so that user's requests and needs are being met. | 9 | 2 | Y | -- | -- |
+| RC-302 | As a SE developer, I want to aid the capstone team with the ECaMS Connect presentation so that both teams participate in the activity. | 9 | 4 | Y | -- | -- |
 
 Individiual Capacity: 14 Story Points
 Team Capacity: 56 Story Points
