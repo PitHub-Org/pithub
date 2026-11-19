@@ -63,7 +63,6 @@ Red Dragon Scrum Master: Java
 | RC-112 | As a user, I want to organize notes and documents into folders within classes so that large amounts of content remain manageable. | 6 | 4 | N | -- | -- |
 | RC-114 | As a user, I want to receive notifications when my uploaded content is reported or removed so that I understand moderation actions affecting my account. | 6 | 2 | N | -- | -- |
 | RC-239 | As a user, I want a simple URL to PitHub so that I can easily remember how to access the website without consulting the development teams. | 6 | 3 | N | -- | -- |
-| RC-083 | As a user, I want to see recently viewed classes so that I can quickly return to them. | 5 | 2 | N | -- | -- |
 | RC-096 | As a user, I want notes to support basic formatting (bold, lists, headings) so that my notes are easier to read and organize. | 5 | 3 | N | -- | -- |
 | RC-106 | As a user, I want to receive notifications when I am invited to a class so that I can quickly respond to invitations. | 5 | 3 | N | -- | -- |
 | RC-109 | As a user, I want to skip or revisit the onboarding tutorial so that I can review platform guidance when needed. | 5 | 2 | N | -- | -- |

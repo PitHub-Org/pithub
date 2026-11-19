@@ -28,6 +28,7 @@ Attended by
 | RC-108 | As a first-time user, I want tooltips and walkthrough prompts during onboarding so that I can learn platform features interactively. | 6 | 3 | N | In-Progress | Josh |
 | RC-109 | As a user, I want to skip or revisit the onboarding tutorial so that I can review platform guidance when needed. | 5 | 2 | N | In-Progress | Josh |
 | RC-302 | As a SE developer, I want to aid the capstone team with the ECaMS Connect presentation so that both teams participate in the activity. | 9 | 4 | Y | In-Progress | Josh |
+| RC-083 | As a user, I want to see recently viewed classes so that I can quickly return to them. | 5 | 2 | N | In-Progress | Josh |
 | RC-220 | As a user, I want to upload custom thumbnails for documents and edit document details after uploading so that I can make my shared resources easier to identify and keep their information accurate. | 7 | 3 | N | In-Progress | Java |
 | RC-219 | As a user, I want to upload a custom thumbnail for my classes so that I can visually distinguish them from other classes. | 6 | 4 | N | In-Progress | Java |
 | RC-273 | As a PitHub organization member, I want to create Red Dragon GitHub teams within the PitHub GitHub organization so that team membership, repository access, and development responsibilities can be managed independently. | 8 | 1 | Y | In-Progress | Java |
