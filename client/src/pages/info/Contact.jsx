@@ -10,6 +10,7 @@ import sebastianImg from '../../assets/members/sebastian-800-by-800.jpg';
 import jacobImg from '../../assets/members/jacob-800-by-800.jpg';
 import joshImg from '../../assets/members/josh-800-by-800.jpg';
 import mirjavkharImg from '../../assets/members/mirjavkhar-800-by-800.jpg';
+import ChloeImg from '../../assets/members/chloe-800-by-800.jpg';
 import { collection, addDoc, serverTimestamp } from 'firebase/firestore';
 import { db } from '../../lib/firebase';
 import { useAuth } from '../../context/AuthContext';
@@ -72,7 +73,13 @@ const teamGroups = [
                 role: 'Current Developer',
                 email: 'mirjavkhardjavkhar@lewisu.edu',
                 image: mirjavkharImg
-            }
+            },
+            {
+                name: 'Chloe Washington',
+                role: 'Current Developer',
+                email: 'chloewashington@lewisu.edu',
+                image: ChloeImg
+            },
         ]
     }
 
