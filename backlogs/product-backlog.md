@@ -82,8 +82,6 @@ Red Dragon Scrum Master: Java
 | RC-211 | As a developer (Josh), I want to continue reaching out and pitching to Lewis University Computer Science professors, either in person or via email, who may be interested in using PitHub as an alternative to Panopto. | 5 | 1 | Y | -- | -- |
 | RC-212 | As a developer (Java), I want to continue reaching out and pitching to Lewis University Computer Science professors, either in person or via email, who may be interested in using PitHub as an alternative to Panopto. | 5 | 1 | Y | -- | -- |
 | RC-213 | As a developer (Chloe), I want to continue reaching out and pitching to Lewis University Computer Science professors, either in person or via email, who may be interested in using PitHub as an alternative to Panopto. | 5 | 1 | Y | -- | -- |
-| RC-237 | As a developer, I want any files, file names, or code which mention team members to include that member's team name so that future development teams can add new files without the possibility for same name conflicts. | 5 | 2 | Y | -- | -- |
-| RC-238 | As a user, I want to only see the current developers of PitHub on the contacts page rather than legacy developers who are listed on another page so that I do not contact a legacy developer by accident. | 5 | 3 | N | -- | -- |
 | RC-242 | As a new developer, I want to coordinate how our team can help the Capstone team's Celebration of Scholarship Lite so that we can participate and support the Capstone team. | 5 | 1 | Y | -- | -- |
 | RC-046 | As a user, I want to filter videos by date and class so that I can narrow down content efficiently. | 4 | 2 | N | -- | -- |
 | RC-053 | As a user, I want to edit video metadata (title, description, visibility) so that my content remains accurate. | 4 | 2 | N | -- | -- |
@@ -136,3 +134,6 @@ Red Dragon Scrum Master: Java
 | RC-298 | As a user, I want to mark notifications as read or unread so that I can keep track of important updates and distinguish between notifications I have already reviewed and those requiring my attention. | 7 | 2 | N | -- | -- |
 | RC-299 | As a developer, I want to implement a scheduled process for identifying orphaned Firebase Storage files so that files no longer referenced by the database can be identified and removed safely to reduce unnecessary storage costs. | 9 | 4 | Y | -- | -- |
 | RC-301 | As a developer, I want to normalize story points by user value so that user's requests and needs are being met. | 9 | 3 | Y | -- | -- |
+| RC-302 | As a SE developer, I want to aid the capstone team with the ECaMS Connect presentation so that both teams participate in the activity. | 9 | 4 | Y | -- | -- |
+| RC-303 | As a developer, I want to ensure all documentation is accurate, up to date, and relevent so that other developers are better able to understand the project architecture. | 5 | 3 | Y | -- | -- |
+| RC-304 | As a devloper, I want to add comment documentation to source code files so that developers are better able to understand a given source file. | 4 | 10 | Y | -- | -- |
