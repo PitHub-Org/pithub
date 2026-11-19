@@ -3,7 +3,7 @@ layout: default
 title: Product Backlog
 permalink: /backlogs/product-backlog/
 ---
-Current Largest ID: RC-299
+Current Largest ID: RC-304
 
 ---
 
@@ -25,7 +25,6 @@ Red Dragon Scrum Master: Java
 |--------|------------------------|--------------|--------------|------------|--------------|--------------|
 | RC-148 | As a developer, I want to review and optimize Firebase Storage usage so that PitHub can reduce unnecessary storage and bandwidth costs. | 10 | 5 | Y | -- | -- |
 | RC-164 | As a developer, I want to resolve high-priority bugs discovered thro ugh user testing so that the reliability of existing functionality improves before additional outreach. | 10 | 5 | N | -- | -- |
-| RC-135 | As a developer, I want to create automated backups for user-uploaded content so that important academic resources can be recovered after unexpected failures. | 9 | 6 | Y | -- | -- |
 | RC-137 | As a user, I want to control sharing permissions for my videos and documents so that I can decide who has access to my academic content. | 9 | 5 | N | -- | -- |
 | RC-157 | As a team member, I want to conduct product demonstrations for selected faculty and staff members so that the team can gather feedback from potential customers. | 9 | 4 | N | -- | -- |
 | RC-161 | As a developer, I want to improve the first-time user experience based on onboarding feedback so that new users can complete their first meaningful task with fewer difficulties. | 9 | 5 | N | -- | -- |
@@ -34,10 +33,7 @@ Red Dragon Scrum Master: Java
 | RC-223 | As a system administrator, I want to create separate administrator accounts for developers so that administrative responsibilities can be managed independently. | 9 | 4 | N | -- | -- |
 | RC-231 | As a Scrum Master, I want to track each member of the aligned Software Engineering team by name and verify that each member completes at least two user stories to the Definition of Done so that individual contributions and team progress can be evaluated. | 9 | 5 | N | -- | -- |
 | RC-232 | As a Scrum Master, I want to coordinate with the Software Engineering team to ensure that all team members participate in the Fall 2026 midterm Product Review so that the team can present its progress, demonstrate completed work, and gather feedback. | 9 | 3 | N | -- | -- |
-| RC-058 | As a developer, I want to implement role-based permissions (future) so that professors and students may have different capabilities. | 8 | 5 | Y | -- | -- |
 | RC-106 | As a user, I want to receive notifications when I am invited to a class so that I can quickly respond to invitations. | 5 | 3 | N | -- | -- |
-| RC-108 | As a first-time user, I want tooltips and walkthrough prompts during onboarding so that I can learn platform features interactively. | 6 | 3 | N | -- | -- |
-| RC-109 | As a user, I want to skip or revisit the onboarding tutorial so that I can review platform guidance when needed. | 5 | 2 | N | -- | -- |
 | RC-112 | As a user, I want to organize notes and documents into folders within classes so that large amounts of content remain manageable. | 6 | 4 | N | -- | -- |
 | RC-114 | As a user, I want to receive notifications when my uploaded content is reported or removed so that I understand moderation actions affecting my account. | 6 | 2 | N | -- | -- |
 | RC-118 | As a developer, I want to separate moderation tools from regular user interfaces so that administrative functions remain secure and isolated. | 8 | 3 | Y | -- | -- |
@@ -55,13 +51,10 @@ Red Dragon Scrum Master: Java
 | RC-274 | As a user, I want to watch video on the same page so that I don't get redirected to a new page. | 8 | 3 | N | -- | -- |
 | RC-078 | As a developer, I want to enforce file size limits so that storage and bandwidth are controlled. | 7 | 2 | Y | -- | -- |
 | RC-089 | As a user, I want to access the platform on different screen sizes so that I can use it on mobile and desktop devices. | 7 | 4 | N | -- | -- |
-| RC-094 | As a user, I want to create notes within a class so that I can keep written study material alongside videos and documents. | 7 | 4 | N | -- | -- |
 | RC-132 | As a user, I want to continue watching videos from where I previously stopped so that I can resume learning without manually searching for my place. | 7 | 4 | N | -- | -- |
 | RC-133 | As a user, I want to receive notifications when classes I follow receive new content so that I can stay updated with important academic resources. | 7 | 5 | N | -- | -- |
 | RC-167 | As a product owner, I want to review the effectiveness of customer outreach activities so that future demonstrations and promotional efforts can focus on the most productive channels. | 7 | 3 | Y | -- | -- |
 | RC-169 | As a first time user, I want to be shown a tutorial or walkthrough of how the app works on my very first login so that I know how to utilize PitHub | 7 | 6 | N | -- | -- |
-| RC-220 | As a user, I want to upload custom thumbnails for documents and edit document details after uploading so that I can make my shared resources easier to identify and keep their information accurate. | 7 | 3 | N | -- | -- |
-| RC-097 | As a developer, I want to create an algorithm that prioritizes recently uploaded and frequently viewed content on the dashboard so that users can quickly access relevant materials. | 7 | 3 | Y | -- | -- |
 | RC-107 | As a first-time user, I want to see an onboarding tutorial so that I can understand how to navigate and use PitHub effectively. | 7 | 4 | N | -- | -- |
 | RC-095 | As a user, I want to edit and delete my notes so that I can keep my study materials accurate and updated. | 6 | 2 | N | -- | -- |
 | RC-098 | As a developer, I want the dashboard recommendation algorithm to display a balanced mix of videos and documents so that users are exposed to multiple forms of course content. | 6 | 4 | Y | -- | -- |
@@ -69,7 +62,6 @@ Red Dragon Scrum Master: Java
 | RC-108 | As a first-time user, I want tooltips and walkthrough prompts during onboarding so that I can learn platform features interactively. | 6 | 3 | N | -- | -- |
 | RC-112 | As a user, I want to organize notes and documents into folders within classes so that large amounts of content remain manageable. | 6 | 4 | N | -- | -- |
 | RC-114 | As a user, I want to receive notifications when my uploaded content is reported or removed so that I understand moderation actions affecting my account. | 6 | 2 | N | -- | -- |
-| RC-219 | As a user, I want to upload a custom thumbnail for my classes so that I can visually distinguish them from other classes. | 6 | 4 | N | -- | -- |
 | RC-239 | As a user, I want a simple URL to PitHub so that I can easily remember how to access the website without consulting the development teams. | 6 | 3 | N | -- | -- |
 | RC-083 | As a user, I want to see recently viewed classes so that I can quickly return to them. | 5 | 2 | N | -- | -- |
 | RC-096 | As a user, I want notes to support basic formatting (bold, lists, headings) so that my notes are easier to read and organize. | 5 | 3 | N | -- | -- |
@@ -87,7 +79,6 @@ Red Dragon Scrum Master: Java
 | RC-053 | As a user, I want to edit video metadata (title, description, visibility) so that my content remains accurate. | 4 | 2 | N | -- | -- |
 | RC-071 | As a user, I want to see file sizes before downloading so that I can manage bandwidth usage. | 4 | 1 | N | -- | -- |
 | RC-218 | As a product owner, I want to meet with Dr. Klump to discuss Lewis University's potential takeover of Firebase payment responsibilities so that the team can determine a sustainable plan for PitHub's hosting and operating costs. | 9 | 3 | Y | -- | -- |
-| RC-220 | As a user, I want to upload custom thumbnails for documents and edit document details after uploading so that I can make my shared resources easier to identify and keep their information accurate. | 7 | 3 | N | -- | -- |
 | RC-222 | As the original development team, I want to evaluate options for PitHub after the current semester, including open-sourcing the project, so that we can establish a sustainable future for the platform. | 9 | 5 | Y | -- | -- |
 | RC-234 | As a developer, I want to research the process of transitioning PitHub into an open-source project so that developers outside of Lewis University can access, contribute to, and maintain the platform. | 10 | 4 | Y | -- | -- |
 | RC-235 | As a project maintainer, I want to establish contribution guidelines and development standards so that future Capstone and Software Engineering teams can contribute code consistently. | 10 | 3 | N | -- | -- |
