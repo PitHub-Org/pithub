@@ -24,7 +24,7 @@ Attended by
 | RC-058 | As a developer, I want to implement role-based permissions (future) so that professors and students may have different capabilities. | 8 | 5 | Y | In-Progress | Chloe |
 | RC-237 | As a developer, I want any files, file names, or code which mention team members to include that member's team name so that future development teams can add new files without the possibility for same name conflicts. | 5 | 2 | Y | In-Progress | Chloe |
 | RC-094 | As a user, I want to create notes within a class so that I can keep written study material alongside videos and documents. | 7 | 4 | N | In-Progress | Chloe |
-| RC-301 | As a developer, I want to normalize story points by user value so that user's requests and needs are being met. | 9 | 2 | Y | In-Progress | Josh |
+| RC-301 | As a developer, I want to normalize priority by user value so that user's requests and needs are being met. | 9 | 2 | Y | In-Progress | Josh |
 | RC-300 | As a developer, I want to move the product backlog, and sprint backlogs, to the Stories application so that backlogs can be more easily managed between teams. | 5 | 2 | Y | In-Progress | Josh |
 | RC-108 | As a first-time user, I want tooltips and walkthrough prompts during onboarding so that I can learn platform features interactively. | 6 | 3 | N | In-Progress | Josh |
 | RC-109 | As a user, I want to skip or revisit the onboarding tutorial so that I can review platform guidance when needed. | 5 | 2 | N | In-Progress | Josh |
